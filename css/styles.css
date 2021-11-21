@@ -432,6 +432,9 @@ img {
 .telephone:focus {
   color: var(--accent-color);
 }
+.footer-social-media {
+  padding-top: 12px;
+}
 .footer-title {
   font-weight: bold;
   font-size: 14px;
